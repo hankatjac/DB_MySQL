@@ -1,0 +1,4 @@
+WareHouseID,Address,City,State,Zip,Phone,ClimateControl,SecurityGate
+OR-1,#3 Industrial Park Way,Portland,OR,97212,503-551-2432,No,Yes
+WA-1,8798 Warhouse Road,Seattle,WA,98121,206-324-2312,Yes,Yes
+WY-1,54781 Hixson Pick,Jackson Hole,WY,83001,307-541-3071,Yes,No
